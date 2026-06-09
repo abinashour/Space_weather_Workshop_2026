@@ -5,7 +5,7 @@ The dataset folder is divided into two different dates. Each date contains space
 
 The provided data include:
 
-1. Solar images from:
+1. Solar images and videos from:
    - SDO/HMI continuum
    - SDO/AIA 193 Å
    - SOHO/LASCO C3
@@ -14,10 +14,10 @@ The provided data include:
 
 3. Kp index data
 
-To clone Space weather worshop file in your local PC do this steps in the Prompt:
+To clone the Space Weather Workshop repository on your local PC, run these commands in Command Prompt or Anaconda Prompt:
 - cd C:\Writeyour Path #Exampel cd C:\Users\aaa\Desktop
 - git clone https://github.com/abinashour/Space_weather_Workshop_2026.git
 - cd Space_weather_Workshop_2026
 
-To open the Jupyter notebook in your local PC do this step in the Prompt:
+To open the Jupyter notebook on your local PC, run this command in Command Prompt or Anaconda Prompt:
 - jupyter notebook "practical_9_6_26.ipynb"
