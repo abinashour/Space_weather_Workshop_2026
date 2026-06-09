@@ -22,7 +22,7 @@ The provided data include:
 Open Command Prompt or Anaconda Prompt and run:
 
 ```bash
-- cd C:\Writeyour Path #Example cd C:\Users\aaa\Desktop
+- cd "C:\Writeyour Path" #Example cd C:\Users\aaa\Desktop
 - git clone https://github.com/abinashour/Space_weather_Workshop_2026.git
 - cd Space_weather_Workshop_2026
 - jupyter notebook "practical_9_6_26.ipynb"
