@@ -1,5 +1,7 @@
 # Space Weather Workshop 2026
 
+Main goal:Participants will use solar image, videos, X-ray flux data and Kp index data to check the Sun activity and current space weather conditions, then classify the day as quiet, active, or stormy.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abinashour/Space_weather_Workshop_2026/blob/main/practical_9_6_26.ipynb)
 
 ## Dataset Description
