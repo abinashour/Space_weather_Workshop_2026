@@ -15,7 +15,7 @@ The provided data include:
 3. Kp index data
 
 To clone the Space Weather Workshop repository on your local PC, run these commands in Command Prompt or Anaconda Prompt:
-- cd C:\Writeyour Path #Exampel cd C:\Users\aaa\Desktop
+- cd C:\Writeyour Path #Example cd C:\Users\aaa\Desktop
 - git clone https://github.com/abinashour/Space_weather_Workshop_2026.git
 - cd Space_weather_Workshop_2026
 
