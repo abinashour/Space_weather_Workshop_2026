@@ -19,13 +19,10 @@ The provided data include:
 
 ## How to Use Locally 
 
-Open Command Prompt or Anaconda Prompt:
+Open Command Prompt or Anaconda Prompt and run:
 
 ```bash
-To clone the Space Weather Workshop repository on your local PC, run these commands in Command Prompt or Anaconda Prompt:
 - cd C:\Writeyour Path #Example cd C:\Users\aaa\Desktop
 - git clone https://github.com/abinashour/Space_weather_Workshop_2026.git
 - cd Space_weather_Workshop_2026
-
-To open the Jupyter notebook on your local PC, run this command in Command Prompt or Anaconda Prompt:
 - jupyter notebook "practical_9_6_26.ipynb"
