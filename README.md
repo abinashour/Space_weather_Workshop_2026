@@ -19,12 +19,12 @@ The provided data include:
 
 3. Kp index data
 
-## How to Use Locally 
+## How to Use Workshop Content Locally 
 
 Open Command Prompt or Anaconda Prompt and run:
 
 ```bash
-- cd "C:\Writeyour Path" #Example cd C:\Users\aaa\Desktop
-- git clone https://github.com/abinashour/Space_weather_Workshop_2026.git
-- cd Space_weather_Workshop_2026
-- jupyter notebook "Space_Weather_Monitoring_10_6_26.ipynb"
+cd "C:\Writeyour Path" #Example cd C:\Users\aaa\Desktop
+git clone https://github.com/abinashour/Space_weather_Workshop_2026.git
+cd Space_weather_Workshop_2026
+jupyter notebook "Space_Weather_Monitoring_10_6_26.ipynb"
