@@ -1,6 +1,6 @@
 # Space Weather Workshop 2026
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abinashour/Space_weather_Workshop_2026/blob/main/Space_Weather_Monitoring_17_6_26.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abinashour/Space_weather_Workshop_2026/blob/main/Space_Weather_Monitoring_18_6_26_GC.ipynb)
 
 Participants will monitor space weather using solar image, videos, X-ray flux data and Kp index data to check the Sun activity and current space weather conditions, then classify the day as quiet, active, or stormy.
 
