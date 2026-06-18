@@ -27,5 +27,5 @@ Open Command Prompt or Anaconda Prompt and run:
 cd "C:\Writeyour Path"
 git clone https://github.com/abinashour/Space_weather_Workshop_2026.git
 cd Space_weather_Workshop_2026
-jupyter notebook "Space_Weather_Monitoring_18_6_26_jupyter.ipynb"
+jupyter notebook "Space_Weather_Monitoring_jupyter.ipynb"
 ```
